@@ -1,0 +1,4 @@
+Name: Show on github
+Description: Shows selected lines on github.
+Binding: gh
+Interactive: false
